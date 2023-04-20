@@ -1,23 +1,3 @@
-<div>
-  <div style="float: left; margin-right: 10px;">
-    <img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
-    <span>Anaconda</span>
-  </div>
-  <div style="float: left; margin-right: 10px;">
-    <img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;">
-    <span>Jupyter</span>
-  </div>
-  <div style="float: left; margin-right: 10px;">
-    <img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;">
-    <span>SQL</span>
-  </div>
-  <div style="float: left; margin-right: 10px;">
-    <img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;">
-    <span>mongoDB</span>
-  </div>
-  <div style="clear: both;"></div>
-</div>
-
 # Hey, I'm Rubén!
 
 I am a 📊data lover currently pursuing a master's degree in data science at <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
@@ -25,82 +5,97 @@ I am a 📊data lover currently pursuing a master's degree in data science at <i
 ## 💻 Tech stack
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 400px;">
-  <p>
-  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>Anaconda</span></div>
-  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>Jupyter</span></div>
-  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>SQL</span></div>
-  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>mongoDB</span></div>
-    </p>
-  
-  <p>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/neo4j.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>neo4j</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/python.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>Python</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/pandas.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>pandas</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/plt.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>Matplotlib</span>
-      </div>
-  </p>
-  
-  <p>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/sns.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>seaborn</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/numpy.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>NumPy</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/scipy.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>SciPy</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/sklearn.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>scikit-learn</span>
-      </div>
-  </p>
-  
-  <p>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/pytorch.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>PyTorch</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/tf.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>TensorFlow</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/r.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>R</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px;">
-        <img src="images/powerbi.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>Power BI</span>
-      </div>
-  </p>
-  
-  <p>
-      <div style="display: flex; align-items: center; margin: 5px;">
-        <img src="images/excel.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>Excel</span>
-      </div>
-  </p>
-  
+    
+  <div style="display: inline-flex; align-items: center; margin: 5px; flex: 25%;">
+    <img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Anaconda</span>
+  </div>
+    
+  <div style="display: inline-flex; align-items: center; margin: 5px; flex: 25%;">
+    <img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Jupyter</span>
+  </div>
+    
+  <div style="display: inline-flex; align-items: center; margin: 5px; flex: 25%;">
+    <img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>SQL</span>
+  </div>
+    
+  <div style="display: inline-flex; align-items: center; margin: 5px; flex: 25%;">
+    <img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>mongoDB</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/neo4j.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>neo4j</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/python.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Python</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/pandas.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>pandas</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/plt.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Matplotlib</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/sns.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>seaborn</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/numpy.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>NumPy</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/scipy.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>SciPy</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/sklearn.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>scikit-learn</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/pytorch.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>PyTorch</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/tf.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>TensorFlow</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
+    <img src="images/r.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>R</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/powerbi.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Power BI</span>
+  </div>
+    
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/excel.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Excel</span>
+  </div>
+    
 </div>
 
 ## 😇 A bit more about me
 
-I'm originally from Spain :spain: but I'm currently living in Ireland :ireland:. It's been a good opportunity to step out of my comfort zone and try something new. Here are some of the things I enjoy in my spare time:
+I'm originally from Spain but I'm currently living in Ireland. It's been a good opportunity to step out of my comfort zone and try something new. Here are some of the things I enjoy in my spare time:
 
 * :deciduous_tree: Hiking is my favorite way to disconnect from the world and reconnect with nature. There's something about being out in the woods that just feels right to me.
 
@@ -111,6 +106,7 @@ I'm originally from Spain :spain: but I'm currently living in Ireland :ireland:.
 * :chess_pawn: I'm a total noob when it comes to chess, but that doesn't stop me from enjoying the game.
 
 * :jigsaw: Puzzles aren't really my thing, but I'll admit, every once in a blue moon I'll give one a shot just to see if I can do it.
+
 [![Codewars Badge](https://www.codewars.com/users/yourssincerely/badges/large)](https://www.codewars.com/users/yourssincerely)
 
 ## 📊 Github stats
