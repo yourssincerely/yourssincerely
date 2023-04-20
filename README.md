@@ -4,70 +4,67 @@ I am a 📊data lover currently pursuing a master's degree in data science at <i
 
 ## 💻 Tech stack
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center; margin: 5px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 400px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>Anaconda</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>Jupyter</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>SQL</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>mongoDB</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/neo4j.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>neo4j</span>
   </div>
-  <br>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/python.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>Python</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/pandas.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>pandas</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/plt.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>Matplotlib</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/sns.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>seaborn</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/numpy.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>NumPy</span>
   </div>
-  <br>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="scipy/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>SciPy</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/sklearn.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>scikit-learn</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/pytorch.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>PyTorch</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/tf.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>TensorFlow</span>
   </div>
-  <div style="display: flex; align-items: center; margin: 5px;">
+  <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
     <img src="images/r.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>R</span>
   </div>
-  <br>
   <div style="display: flex; align-items: center; margin: 5px;">
     <img src="images/powerbi.png" style="width: 20px; height: 20px; margin-right: 6px;">
     <span>Power BI</span>
