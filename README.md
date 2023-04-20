@@ -1,3 +1,23 @@
+<div>
+  <div style="float: left; margin-right: 10px;">
+    <img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Anaconda</span>
+  </div>
+  <div style="float: left; margin-right: 10px;">
+    <img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Jupyter</span>
+  </div>
+  <div style="float: left; margin-right: 10px;">
+    <img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>SQL</span>
+  </div>
+  <div style="float: left; margin-right: 10px;">
+    <img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>mongoDB</span>
+  </div>
+  <div style="clear: both;"></div>
+</div>
+
 # Hey, I'm Rubén!
 
 I am a 📊data lover currently pursuing a master's degree in data science at <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
@@ -6,23 +26,11 @@ I am a 📊data lover currently pursuing a master's degree in data science at <i
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 400px;">
   <p>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>Anaconda</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>Jupyter</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>SQL</span>
-      </div>
-      <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;">
-        <span>mongoDB</span>
-      </div>
-  </p>
+  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>Anaconda</span></div>
+  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>Jupyter</span></div>
+  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>SQL</span></div>
+  <div style="display: inline-flex; align-items: center; margin: 5px; width: 25%;"><img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;"><span>mongoDB</span></div>
+    </p>
   
   <p>
       <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
@@ -53,7 +61,7 @@ I am a 📊data lover currently pursuing a master's degree in data science at <i
         <span>NumPy</span>
       </div>
       <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
-        <img src="conda/scipy.png" style="width: 20px; height: 20px; margin-right: 6px;">
+        <img src="images/scipy.png" style="width: 20px; height: 20px; margin-right: 6px;">
         <span>SciPy</span>
       </div>
       <div style="display: flex; align-items: center; margin: 5px; width: 25%;">
