@@ -2,95 +2,83 @@
 
 I am a 📊data lover currently pursuing a master's degree in data science at <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
 
-## Tech stack
+## 💻 Tech stack
 
-<p style="text-align:center;">
-    
-<span style="display:inline-block; width: 110px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/conda.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    Anaconda
-</span>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Anaconda</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/jupyter.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Jupyter</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/sql.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>SQL</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/mongodb.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>mongoDB</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/neo4j.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>neo4j</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/python.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Python</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/pandas.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>pandas</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/plt.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Matplotlib</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/sns.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>seaborn</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/numpy.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>NumPy</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="scipy/conda.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>SciPy</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/sklearn.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>scikit-learn</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/pytorch.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>PyTorch</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/tf.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>TensorFlow</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/r.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>R</span>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/powerbi.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Power BI</span>
+  </div>
+  <div style="display: flex; align-items: center; margin: 5px;">
+    <img src="images/excel.png" style="width: 20px; height: 20px; margin-right: 6px;">
+    <span>Excel</span>
+  </div>
+</div>
 
-<span style="display:inline-block; width: 100px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/jupyter.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    Jupyter
-</span>
-
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/sql.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    SQL
-</span>
-
-<span style="display:inline-block; width: 80px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/mongodb.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    mongoDB
-</span>
-
-<span style="display:inline-block; width: 60px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/neo4j.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    neo4j
-</span>
-
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/python.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    Python
-</span>
-
-<span style="display:inline-block; width: 80px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/pandas.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    pandas
-</span>
-
-<span style="display:inline-block; width: 100px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/plt.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    Matplotlib
-</span>
-
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/sns.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    seaborn
-</span>
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/numpy.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    NumPy
-</span>
-
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/scipy.svg" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    SciPy
-</span>
-
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/sklearn.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    scikit-learn
-</span>
-    
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/pytorch.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    PyTorch
-</span>
-    
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/tf.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    TensorFlow
-</span>  
-    
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/r.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    R
-</span>
-      
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/powerbi.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-    Power BI
-</span>
-    
-<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-    <img src="images/excel.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">Excel
-</span>
-</p>
-
-## A bit more about me
+## 😇 A bit more about me
 
 I'm originally from Spain :spain: but I'm currently living in Ireland :ireland:. It's been a good opportunity to step out of my comfort zone and try something new. Here are some of the things I enjoy in my spare time:
 
@@ -105,7 +93,7 @@ I'm originally from Spain :spain: but I'm currently living in Ireland :ireland:.
 * :jigsaw: Puzzles aren't really my thing, but I'll admit, every once in a blue moon I'll give one a shot just to see if I can do it.
 [![Codewars Badge](https://www.codewars.com/users/yourssincerely/badges/large)](https://www.codewars.com/users/yourssincerely)
 
-## Github stats
+## 📊 Github stats
 
 Although I have a lot to learn, I thought it would be fun to share my GitHub stats on my ReadMe as a way to track my progress and keep myself motivated.
 
@@ -122,7 +110,7 @@ Although I have a lot to learn, I thought it would be fun to share my GitHub sta
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourssincerely&repo=linkedin)](https://github.com/yourssincerely/linkedin)
 
 
-# 📫 Reach out to me
+## 📫 Reach out to me
 
 <p style="text-align:center;">
 
