@@ -1,66 +1,97 @@
 # Hey, I'm Rubén!
-***
 
 I am a 📊data lover currently pursuing a master's degree in data science at <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
 
 ## Tech stack
-***
+
 <p style="text-align:center;">
+    
+<span style="display:inline-block; width: 110px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/conda.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    Anaconda
+</span>
 
-<img src="images/conda.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">Anaconda</span>
+<span style="display:inline-block; width: 100px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/jupyter.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    Jupyter
+</span>
 
-<img src="images/jupyter.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">Jupyter</span>
-    
-<img src="images/sql.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">SQL</span>
-    
-<img src="images/mongodb.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">mongoDB</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/sql.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    SQL
+</span>
 
-<img src="images/neo4j.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">neo4j</span>
+<span style="display:inline-block; width: 80px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/mongodb.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    mongoDB
+</span>
+
+<span style="display:inline-block; width: 60px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/neo4j.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    neo4j
+</span>
+
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/python.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    Python
+</span>
+
+<span style="display:inline-block; width: 80px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/pandas.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    pandas
+</span>
+
+<span style="display:inline-block; width: 100px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/plt.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    Matplotlib
+</span>
+
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/sns.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    seaborn
+</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/numpy.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    NumPy
+</span>
+
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/scipy.svg" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    SciPy
+</span>
+
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/sklearn.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    scikit-learn
+</span>
     
-<img src="images/python.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">Python</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/pytorch.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    PyTorch
+</span>
     
-<img src="images/pandas.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">pandas</span>
- 
-<img src="images/plt.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">Matplotlib</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/tf.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    TensorFlow
+</span>  
     
-<img src="images/sns.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">seaborn</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/r.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    R
+</span>
       
-<img src="images/numpy.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">NumPy</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/powerbi.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
+    Power BI
+</span>
     
-<img src="images/scipy.svg" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">SciPy</span>
-  
-<img src="images/sklearn.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">scikit-learn</span>    
-
-<img src="images/pytorch.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">PyTorch</span>
-    
-<img src="images/tf.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">TensorFlow</span>
-    
-<img src="images/r.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">R</span>
-    
-<img src="images/powerbi.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">Power BI</span>
-    
-<img src="images/excel.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">
-<span style="display: inline-block;">Excel</span>
+<span style="display:inline-block; width: 70px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+    <img src="images/excel.png" style="vertical-align:middle; margin-right: 6px; display: inline-block; width: 20px; height: 20px;">Excel
+</span>
 </p>
 
 ## A bit more about me
-***
+
 I'm originally from Spain :spain: but I'm currently living in Ireland :ireland:. It's been a good opportunity to step out of my comfort zone and try something new. Here are some of the things I enjoy in my spare time:
 
 * :deciduous_tree: Hiking is my favorite way to disconnect from the world and reconnect with nature. There's something about being out in the woods that just feels right to me.
@@ -75,7 +106,7 @@ I'm originally from Spain :spain: but I'm currently living in Ireland :ireland:.
 [![Codewars Badge](https://www.codewars.com/users/yourssincerely/badges/large)](https://www.codewars.com/users/yourssincerely)
 
 ## Github stats
-***
+
 Although I have a lot to learn, I thought it would be fun to share my GitHub stats on my ReadMe as a way to track my progress and keep myself motivated.
 
 * These are the languages that I use!
@@ -92,7 +123,7 @@ Although I have a lot to learn, I thought it would be fun to share my GitHub sta
 
 
 # 📫 Reach out to me
-***
+
 <p style="text-align:center;">
 
 <a href="mailto:rtespineira@outlook.com">
