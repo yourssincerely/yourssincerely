@@ -105,10 +105,11 @@ Although I have a lot to learn, I thought it would be fun to share my GitHub sta
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=yourssincerely&count_private=true&show_icons=true&hide=contribs)
 
-* These are (this is rather) my baby projects. They're not anything special, but I'm still  proud of them.
+* These are my baby projects. They're not anything special, but I'm still  proud of them.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourssincerely&repo=eurovision)](https://github.com/yourssincerely/eurovision)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourssincerely&repo=linkedin)](https://github.com/yourssincerely/linkedin)
-
 
 ## 📫 Reach out to me
 
