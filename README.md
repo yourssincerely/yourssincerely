@@ -1,6 +1,6 @@
 # Hey, I'm Rubén!
 
-I am a 📊data lover currently pursuing a master's degree in data science at <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
+I am a 📊data lover and a recent graduate with a master's degree in data science at <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
 
 ## 💻 Tech stack
 
